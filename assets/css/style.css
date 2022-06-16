@@ -1394,7 +1394,7 @@ button { cursor: pointer; }
 
 .indurance-service-item .service-icon { color: var(--main-color-one); margin-bottom: 15px; font-size: 50px; line-height: 60px; }
 
-.indurance-service-item .service-content .title { font-size: 22px; line-height: 30px; font-weight: 700; margin-bottom: 10px; }
+.indurance-service-item .service-content .title { font-size: 18px; line-height: 30px; font-weight: 700; margin-bottom: 10px; }
 
 .indurance-service-item .service-content p { font-size: 16px; line-height: 26px; }
 
