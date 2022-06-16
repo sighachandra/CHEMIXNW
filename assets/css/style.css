@@ -716,7 +716,20 @@ button { cursor: pointer; }
 
 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children { position: relative; z-index: 0; padding-right: 20px; }
 
-.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before { position: absolute; right: 0; top: 50%; content: '\f107'; font-family: 'fontawesome'; -ms-transform: translateY(-50%); /* IE 9 */ -webkit-transform: translateY(-50%); /* Chrome, Safari, Opera */ transform: translateY(-50%); -webkit-transition: all 0.3s ease-in; -moz-transition: all 0.3s ease-in; -o-transition: all 0.3s ease-in; transition: all 0.3s ease-in; }
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before {
+   position: absolute;
+    right: 0;
+     top: 50%;
+      content: '\f107';
+       font-family: 'fontawesome';
+        -ms-transform: translateY(-50%);
+          -webkit-transform: translateY(-50%);
+           transform: translateY(-50%); 
+          -webkit-transition: all 0.3s ease-in;
+           -moz-transition: all 0.3s ease-in;
+            -o-transition: all 0.3s ease-in;
+             transition: all 0.3s ease-in; 
+            }
 
 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:hover > .sub-menu { top: 100%; visibility: visible; opacity: 1; }
 
@@ -1394,7 +1407,7 @@ button { cursor: pointer; }
 
 .indurance-service-item .service-icon { color: var(--main-color-one); margin-bottom: 15px; font-size: 50px; line-height: 60px; }
 
-.indurance-service-item .service-content .title { font-size: 18px; line-height: 30px; font-weight: 700; margin-bottom: 10px; }
+.indurance-service-item .service-content .title { font-size: px; line-height: 30px; font-weight: 700; margin-bottom: 10px; }
 
 .indurance-service-item .service-content p { font-size: 16px; line-height: 26px; }
 
