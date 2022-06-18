@@ -1254,8 +1254,17 @@ button { cursor: pointer; }
 
 .indurance-form-01 form button { padding: 10px; color: var(--main-color-one); background-color: var(--white-color); font-family: var(--heading-font); font-size: 14px; font-weight: 700; text-transform: uppercase; text-align: center; -webkit-transition: all 0.3s ease-in; -o-transition: all 0.3s ease-in; transition: all 0.3s ease-in; border: 1px solid transparent; width: 100%; }
 
-.indurance-form-02 form input, .indurance-form-02 form textarea { padding: 20px 30px; width: 100%; margin-bottom: 20px; border: 1px solid var(--border-color); }
-
+.indurance-form-02 form input, .indurance-form-02 form textarea { padding: 20px 30px; width: 100%; border: 1px solid var(--border-color); }
+.indurance-form-02 form div {
+  margin-bottom: 20px;
+}
+.indurance-form-02 form span{
+  font-size: 12px;
+  color: #e24f24;
+}
+.dis-for-d{
+  display: none;
+}
 .indurance-form-02 form textarea { height: 150px; }
 
 .indurance-form-02 form ::-webkit-input-placeholder { text-transform: capitalize; }

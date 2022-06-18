@@ -213,15 +213,29 @@ Need Estimate? <span><a href="#">request a quote</a></span>
 </div>
 </div>
 </div>
+
 <div class="row">
 <div class="col-lg-8">
 <div class="indurance-form-02">
 <form action="#">
-<input type="text" placeholder="Name">
-<input type="email" placeholder="Email">
-<input type="text" placeholder="Phone">
-<textarea name="message" placeholder="Your Message"></textarea>
-<button type="submit" class="template-btn">send message</button>
+   <div>
+       <input type="text" placeholder="Name" id="nameField">
+       <span class="dis-for-d" id="name-error">The Name field is required</span>
+    </div>
+   <div>
+       <input type="email" placeholder="Email" id="emailField">
+       <span class="dis-for-d" id="email-error">Email is not valid</span>
+   </div>
+   <div>
+       <input type="text" placeholder="Phone" id="phoneField">
+       <span class="dis-for-d" id="phone-error">Phone Number is not valid</span>
+   </div>
+   <div>
+      <textarea name="message" placeholder="Your Message"></textarea>
+   </div>
+   <div>
+      <button type="button" class="template-btn" onclick="onClickSendMessage()">send message</button>
+   </div>
 </form>
 </div>
 </div>
@@ -264,6 +278,7 @@ Need Estimate? <span><a href="#">request a quote</a></span>
 </div>
 </div>
 </div>
+
 </div>
 </section>
 
@@ -342,11 +357,11 @@ Need Estimate? <span><a href="#">request a quote</a></span>
 <div class="footer-widget widget widget_nav_menu">
 <h5 class="widget-title">our services</h5>
 <ul>
-<li><a href="#">civil engineering</a></li>
-<li><a href="#">chemical research</a></li>
-<li><a href="#">mechanical engineering</a></li>
-<li><a href="#">agro firm</a></li>
-<li><a href="#">other industries</a></li>
+<li><a href="#">water proofing</a></li>
+<li><a href="#">protective coatings</a></li>
+<li><a href="#">joint treatment</a></li>
+<li><a href="#">rehabilation works</a></li>
+<li><a href="#">other services</a></li>
 </ul>
 </div>
 </div>

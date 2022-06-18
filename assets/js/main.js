@@ -277,3 +277,76 @@
     });
 
 })(jQuery);
+
+
+
+
+  //======================form validation ============================//
+
+  function onClickSendMessage() {
+
+     // ----------nameElements------//
+     var nameEle = document.getElementById("name-error");
+     var nameValue = document.getElementById("nameField").value;
+
+      // -------------emailElements-------//
+
+      var emailELe = document.getElementById("email-error");
+      var emailValue = document.getElementById("emailField").value;
+      var mail = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+
+       // -----------------phoneElements---------//
+       var phoneEle = document.getElementById("phone-error");
+       var phoneValue = document.getElementById("phoneField").value;
+       var phone = /^\d{10}$/;
+
+
+       console.log(nameValue);
+       var temp = true;
+      	if(nameValue == ''){
+      		temp = false;
+      		nameEle.classList.remove("dis-for-d");
+      	}
+      	else{
+      		nameEle.classList.add("dis-for-d");
+      	}
+          if(!(emailValue.match(mail))){
+            temp = false;
+             emailELe.classList.remove("dis-for-d");
+        }
+        else{
+            emailELe.classList.add("dis-for-d");
+        }
+        if(!(phoneValue.match(phone))){
+            temp = false;
+            phoneEle.classList.remove("dis-for-d");
+        }
+        else{
+            phoneEle.classList.add("dis-for-d");
+        }
+        if(temp == true){
+            var data = { "name": nameValue, "email": emailValue, "phone": phoneValue };
+            var dataStringified = JSON.stringify(data);
+           //  var xhttp = new XMLHttpRequest();
+           //   xhttp.onreadystatechange = function() {
+           // if (this.readyState == 4 && this.status == 200) {
+           //     console.log(this.responseText);
+           //     var data2 = JSON.parse(this.responseText);
+           //     console.log(data2);
+               
+           // }
+           //  xhttp.open("POST", "", true);
+           //  xhttp.send(dataStringified);
+            var input1 = document.getElementById("nameField");
+            input1.value = "";
+            var input2 = document.getElementById("emailField");
+            input2.value = "";
+            var input3 = document.getElementById("phoneField");
+            input3.value = "";
+
+            // document.getElementById("contact-submit").innerHTML = 'SENDING';
+            alert("send successfully");
+
+       }
+  }
+  //====================end of the section ===========================//
