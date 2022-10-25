@@ -1849,7 +1849,7 @@ button { cursor: pointer; }
 /* Contact */
 .contact-area .widget-nav-menu { background-color: var(--white-soft-color); padding: 40px 30px; }
 
-.contact-area .widget-nav-menu ul li { text-transform: capitalize; }
+/*.contact-area .widget-nav-menu ul li { text-transform: capitalize; }*/
 
 .contact-area .widget-nav-menu ul li + li { margin-top: 20px; }
 
