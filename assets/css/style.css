@@ -1963,4 +1963,7 @@ button { cursor: pointer; }
 
 .blog-single-area .area-separator { width: 100%; height: 1px; background-color: #e2e2e2; margin: 40px 0; }
 
+.activemenu a {
+   color: #f44336!important;
+}
 /*# sourceMappingURL=style.css.map */
