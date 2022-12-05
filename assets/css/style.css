@@ -1966,4 +1966,7 @@ button { cursor: pointer; }
 .activemenu a {
    color: #f44336!important;
 }
+.section-title .title-paragraph {
+    max-width: 100%;
+}
 /*# sourceMappingURL=style.css.map */
