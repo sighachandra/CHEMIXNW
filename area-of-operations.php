@@ -62,15 +62,13 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
-                <img src="assets/images/home-02/feature-image-01.jpg" alt="">
+                <img src="assets/images/operations/water-proofing.png" alt="">
               </div>
               <div class="feature-content">
-                <div class="feature-icon">
-                  <i class="flaticon-content-management"></i>
-                </div>
+                
                 <div class="freaure-title">
                   <a href="#">
-                    <h6 class="title">chemical research & engineering</h6>
+                    <h6 class="title">Substructure / structural / super structural Water Proofing</h6>
                   </a>
                 </div>
               </div>
@@ -79,15 +77,13 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
-                <img src="assets/images/home-02/feature-image-02.jpg" alt="">
+                 <img src="assets/images/operations/flooring.png" alt="">
               </div>
               <div class="feature-content">
-                <div class="feature-icon">
-                  <i class="flaticon-water"></i>
-                </div>
+              
                 <div class="freaure-title">
                   <a href="#">
-                    <h6 class="title">fuel & bio gas system manegment</h6>
+                    <h6 class="title">Industrial and commercial performance flooring systems</h6>
                   </a>
                 </div>
               </div>
@@ -96,15 +92,13 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
-                <img src="assets/images/home-02/feature-image-03.jpg" alt="">
+                 <img src="assets/images/operations/masonry.png" alt="">
               </div>
               <div class="feature-content">
-                <div class="feature-icon">
-                  <i class="flaticon-process"></i>
-                </div>
+               
                 <div class="freaure-title">
                   <a href="#">
-                    <h6 class="title">agricultural develop & science</h6>
+                    <h6 class="title">Structural / masonry Protective coatings</h6>
                   </a>
                 </div>
               </div>
@@ -113,15 +107,13 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
-                <img src="assets/images/service/feature-image-01.jpg" alt="">
+                <img src="assets/images/operations/expansion.png" alt="">
               </div>
               <div class="feature-content">
-                <div class="feature-icon">
-                  <i class="flaticon-content-management"></i>
-                </div>
+                
                 <div class="freaure-title">
                   <a href="#">
-                    <h6 class="title">Jos ole tuota ero koska sanot</h6>
+                    <h6 class="title">Expansion / construction Joint Treatment</h6>
                   </a>
                 </div>
               </div>
@@ -130,15 +122,13 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
-                <img src="assets/images/service/feature-image-02.jpg" alt="">
+               <img src="assets/images/operations/Polyurethane.png" alt="">
               </div>
               <div class="feature-content">
-                <div class="feature-icon">
-                  <i class="flaticon-water"></i>
-                </div>
+               
                 <div class="freaure-title">
                   <a href="#">
-                    <h6 class="title">Tee lautaa oli saa taalta saukko</h6>
+                    <h6 class="title">Polyurethane / Epoxy / cement based precision Grouting</h6>
                   </a>
                 </div>
               </div>
@@ -147,15 +137,13 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
-                <img src="assets/images/service/feature-image-03.jpg" alt="">
+                <img src="assets/images/operations/Concrete_Repair.png" alt="">
               </div>
               <div class="feature-content">
-                <div class="feature-icon">
-                  <i class="flaticon-process"></i>
-                </div>
+                
                 <div class="freaure-title">
                   <a href="#">
-                    <h6 class="title">Paikkaan ai kallelle ne ryypatty</h6>
+                    <h6 class="title">Concrete Repair & Rehabilitation works</h6>
                   </a>
                 </div>
               </div>

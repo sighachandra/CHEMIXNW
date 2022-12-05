@@ -56,7 +56,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item">
               <div class="feature-image">
-                <img src="assets/images/home-01/about-image-01.jpg" alt="">
+                <img src="assets/images/operations/water-proofing.png" alt="">
               </div>
               <div class="feature-content">
                <!--  <span class="subtitle">chemical reserch</span> -->
@@ -67,7 +67,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item">
               <div class="feature-image">
-                <img src="assets/images/home-01/about-image-02.jpg" alt="">
+                 <img src="assets/images/operations/flooring.png" alt="">
               </div>
               <div class="feature-content">
                 <!-- <span class="subtitle">mechanical engineering</span> -->
@@ -78,7 +78,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item">
               <div class="feature-image">
-                <img src="assets/images/home-01/about-image-03.jpg" alt="">
+                 <img src="assets/images/operations/masonry.png" alt="">
               </div>
               <div class="feature-content">
               <!--   <span class="subtitle">civil engineering</span> -->
@@ -90,7 +90,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item">
               <div class="feature-image">
-                <img src="assets/images/home-01/about-image-01.jpg" alt="">
+               <img src="assets/images/operations/expansion.png" alt="">
               </div>
               <div class="feature-content">
                <!--  <span class="subtitle">chemical reserch</span> -->
@@ -101,7 +101,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item">
               <div class="feature-image">
-                <img src="assets/images/home-01/about-image-02.jpg" alt="">
+                 <img src="assets/images/operations/Polyurethane.png" alt="">
               </div>
               <div class="feature-content">
                 <!-- <span class="subtitle">mechanical engineering</span> -->
@@ -112,7 +112,8 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item">
               <div class="feature-image">
-                <img src="assets/images/home-01/about-image-03.jpg" alt="">
+               
+                 <img src="assets/images/operations/Concrete_Repair.png" alt="">
               </div>
               <div class="feature-content">
               <!--   <span class="subtitle">civil engineering</span> -->
