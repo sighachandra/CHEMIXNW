@@ -23,7 +23,7 @@
 						<div class="info-bar-inner">
 							<div class="left-content-area">
 								<div class="logo-area">
-									<a href="index.html"> <img src="assets/images/logo/logo.png" alt="logo"> </a>
+									<a href="index.php"> <img src="assets/images/logo/logo.png" alt="logo"> </a>
 								</div>
 							</div>
 							<div class="right-content-area">
@@ -70,7 +70,7 @@
 				</ul>
 			</div>
 			<div class="nav-right-content indurance-nav-right"> Need Estimate? <span>
-            <a href="contact.html">request a quote</a>
+            <a href="contact.php">request a quote</a>
           </span> </div>
 		</div>
 	</nav>
