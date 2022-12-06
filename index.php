@@ -493,6 +493,37 @@ We are a company specialized in application as per the system specification and 
                     </div>
                  </div>
             </div> 
+
+
+             <div class="col-xl-2 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/arihant.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">Arihant Properties</h6>
+                             <span>Arihant Amara</span> 
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
+
+             <div class="col-xl-2 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/istrac.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">ISRO</h6>
+                             <span>istrac</span> 
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
   
         </div>
       </div>
