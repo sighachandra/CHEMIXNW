@@ -100,8 +100,8 @@
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
-                            <h6 class="title">NARL</h6>
-                           <!--  <span>company title</span> -->
+                            <h6 class="title">National Atmospheric Research Laboratory, (NARL) </h6>
+                            <span>company Gadangi, Thirupathi, AP</span> 
                         </div>
                     </div>
                  </div>
@@ -114,8 +114,8 @@
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
-                            <h6 class="title">Shriram Ep</h6>
-                           <!--  <span>company title</span> -->
+                            <h6 class="title">Sri Ram EPC</h6>
+                         <span> Factory at Vanagaram</span> 
                         </div>
                     </div>
                  </div>
@@ -129,7 +129,7 @@
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">India Land</h6>
-                           <!--  <span>company title</span> -->
+                            <span>I T park @ Ambattur</span> 
                         </div>
                     </div>
                  </div>
@@ -143,7 +143,7 @@
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">ECCI</h6>
-                           <!--  <span>company title</span> -->
+                            <span>Chennai</span> 
                         </div>
                     </div>
                  </div>
@@ -155,8 +155,8 @@
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
-                            <h6 class="title">BK Consortium</h6>
-                           <!--  <span>company title</span> -->
+                            <h6 class="title">BKC Consortium</h6>
+                           <span>Kolkata</span>
                         </div>
                     </div>
                  </div>
@@ -239,8 +239,8 @@
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
-                            <h6 class="title">VSSC</h6>
-                           <!--  <span>company title</span> -->
+                            <h6 class="title">ISRO</h6>
+                            <span>VSSC</span>
                         </div>
                     </div>
                  </div>
@@ -267,14 +267,14 @@
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
-                            <h6 class="title">DAE</h6>
-                           <!--  <span>company title</span> -->
+                            <h6 class="title">Department of Atomics Energy</h6>
+                          <span>Kalpakkam</span>
                         </div>
                     </div>
                  </div>
             </div> 
 
-              <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+            <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
                     <div class="project-image">
                         <img src="assets/images/our-trusted-partners/rrthulasi.png" alt="">
@@ -287,6 +287,50 @@
                     </div>
                  </div>
             </div> 
+
+             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/landT.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">Larson & Toubro Ltd (ECC)</h6>
+                             <span>South city project</span> 
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
+             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/arihant.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">Arihant Properties</h6>
+                             <span>Arihant Amara</span> 
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
+
+             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/istrac.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">ISRO</h6>
+                             <span>istrac</span> 
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
   
         </div>
     </div>

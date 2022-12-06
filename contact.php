@@ -89,7 +89,12 @@
                 </div>
               </form>
             </div>
+             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d418101.1896159566!2d80.06866241320746!3d13.197379688461085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5263366284233d%3A0x99fcfac568e304eb!2sCHEMIX%20ConCare%20Systems!5e0!3m2!1sen!2sin!4v1670342491553!5m2!1sen!2sin" width="100%" height="200" style="border:2px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
+
+         
+
+
           <div class="col-lg-4">
             <div class="contact-widget-area">
               <div class="widget-nav-menu">
@@ -110,7 +115,7 @@
                         <i class="la la-phone-volume"></i>
                       </div>
                       <div class="call-us-text">
-                        <span>call us</span> +91 9445700927
+                        <span>call us</span>044-23820927 <br> +91 9445700927
                       </div>
                     </div>
                   </li>
@@ -138,7 +143,9 @@
                         <i class="la la-map-marker"></i>
                       </div>
                       <div class="address-text">
-                        <span>address</span>Chemix Structural Services, D.No.3-6-58, Nethaji Street, Raghavaiahpeta, Sullurpeta, SPSR Nellore Dist., AP-524 121
+                        <span>address</span>Chemix Structural Services, D.No.3-6-58, Nethaji Street, Raghavaiahpeta, Sullurpeta, Tirupati district, AP-524 121
+                        
+
                       </div>
                     </div>
                   </li>
@@ -148,7 +155,7 @@
                         <i class="la la-phone-volume"></i>
                       </div>
                       <div class="call-us-text">
-                        <span>call us</span> +91 9445700927/ +91 6369220958
+                        <span>call us</span> +91 9445700927<br>+91 81799 27710
                       </div>
                     </div>
                   </li>
@@ -171,152 +178,7 @@
         </div>
       </div>
     </section>
-    <footer class="footer-area">
-      <div class="footer-top">
-        <div class="footer-info">
-          <div class="info-bar-bottom">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-3">
-                  <div class="logo-area">
-                    <a href="index.html">
-                      <img src="assets/images/logo/logo-white.png" alt="logo">
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-9">
-                  <ul class="info-bottom-right">
-                    <li class="call-us-part white">
-                      <div class="icon">
-                        <i class="la la-phone-volume"></i>
-                      </div>
-                      <div class="content">
-                        <h4 class="title">call us</h4>
-                        <span class="detials">+91 9445700927</span>
-                      </div>
-                    </li>
-                    <li class="mail-part white">
-                      <div class="icon">
-                        <i class="la la-envelope-open"></i>
-                      </div>
-                      <div class="content">
-                        <h4 class="title">send us mail</h4>
-                        <span class="details">
-                           <a href="mailto:">contact@chemix-cc.com</a>
-                        </span>
-                      </div>
-                    </li>
-                    <li class="office-time-part white">
-                      <div class="icon">
-                        <i class="la la-clock"></i>
-                      </div>
-                      <div class="content">
-                        <h4 class="title">office time</h4>
-                        <span class="details">10:00 Am - 06:00 Pm</span>
-                      </div>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="footer-widget-area">
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-3">
-                <div class="footer-widget widget about_us_widget">
-                  <h5 class="widget-title">about us</h5>
-                  <p>We are able to guarantee a very high level of satisfaction for our clients. Pharetra libero non facilisis imperdiet, mi augue feugiat nisl sit amet mollis enim velit Vestibulum fringilla nulla ultricies.</p>
-                </div>
-              </div>
-              <div class="col-lg-3">
-                <div class="footer-widget widget widget_nav_menu">
-                  <h5 class="widget-title">useful links</h5>
-                  <ul>
-                    <li>
-                      <a href="#">home</a>
-                    </li>
-                    <li>
-                      <a href="#">about us</a>
-                    </li>
-                    <li>
-                      <a href="#">services</a>
-                    </li>
-                    <li>
-                      <a href="#">blog</a>
-                    </li>
-                    <li>
-                      <a href="#">contact</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-lg-3">
-                <div class="footer-widget widget widget_nav_menu">
-                  <h5 class="widget-title">our services</h5>
-                  <ul>
-                    <li>
-                      <a href="#">water proofing</a>
-                    </li>
-                    <li>
-                      <a href="#">protective coatings</a>
-                    </li>
-                    <li>
-                      <a href="#">joint treatment</a>
-                    </li>
-                    <li>
-                      <a href="#">rehabilation works</a>
-                    </li>
-                    <li>
-                      <a href="#">other services</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-lg-3">
-                <div class="footer-widget widget widget_nav_menu">
-                  <h5 class="widget-title">support</h5>
-                  <ul>
-                    <li>
-                      <a href="#">support center</a>
-                    </li>
-                    <li>
-                      <a href="#">terms of use</a>
-                    </li>
-                    <li>
-                      <a href="#">privacy policy</a>
-                    </li>
-                    <li>
-                      <a href="#">FAQS</a>
-                    </li>
-                    <li>
-                      <a href="#">help</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="footer-copyright-area">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-5">
-              <div class="copyright-left">
-                <span>Designed & Developed By Love</span>
-              </div>
-            </div>
-            <div class="col-md-7">
-              <div class="copyright-right">
-                <span>&copy; copyright 2020 indurance all rights reserved.</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
+  <?= require_once('_footer.php') ?>
     <div class="back-to-top">
       <i class="la la-chevron-circle-up"></i>
     </div>
@@ -334,5 +196,4 @@
     <script src="assets/js/easing.min.js"></script>
     <script src="assets/js/main.js"></script>
   </body>
-  <!-- Mirrored from bytesed.com/tf/indurance/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Jun 2022 17:40:20 GMT -->
 </html>

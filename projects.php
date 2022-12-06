@@ -57,19 +57,19 @@
                   <a href="#">ISRO BUILDINGS SDSC SHAR</a>
                 </h5>
                 <p>
-                Contractor: Shapoorji Pallonji & Co. Ltd
-                1. PSLV Integration facilities – 5000 Sq m
+                Contractor: Shapoorji Pallonji & Co. Ltd<br>
+                1. PSLV Integration facilities – 5000 Sq m<br>
                 2. Gaganyan Orbit Module preparation facility – 5950  Sq m
                </p>
               <p>&nbsp;</p>
               <p>
-                Contractor: BKC Consortium Engineers, Kolkata
+                Contractor: BKC Consortium Engineers, Kolkata<br>
                 1. Nakshatra VVIP Guest House – 6000 Sq m
               </p>
                <p>&nbsp;</p>
                <p>
-                Contractor: R R Thulasi Builders India Pvt. Ltd
-                 1. Construction of S200, S139 NDT Building at SPP – 4500 sq m
+                Contractor: R R Thulasi Builders India Pvt. Ltd<br>
+                 1. Construction of S200, S139 NDT Building at SPP – 4500 sq m<br>
                  2. PSI/PSO-XL Hardware cum storage facility at STEX – 5100 Sq m
                </p>
               </div>
@@ -80,13 +80,13 @@
                   <a href="#">IPRC Mahendragiri</a>
                 </h5>
                 <p>
-                Contractor: Sekhar constructions
+                Contractor: Sekhar constructions<br>
                 1. Construction of C25 stage integration complex and area development – 5600 Sq m
                
                </p>
               <p>&nbsp;</p>
               <p>
-                Contractor: A. Unni & Co
+                Contractor: A. Unni & Co<br>
                 1. Construction of Semi Cryo insulation processing facility – 1500 sq m
               </p>
                
@@ -98,23 +98,23 @@
                   <a href="#">IIT Madras, Chennai</a>
                 </h5>
                 <p>
-                Contractor:  RR Thulasi Builders India Pvt. Ltd
-                1.Construction of G1 type Quarters – 2000 Sq m
+                Contractor:  RR Thulasi Builders India Pvt. Ltd<br>
+                1.Construction of G1 type Quarters – 2000 Sq m<br>
                 2. Expansion of Computer Science block – 2000 Sq m
                </p>
               <p>&nbsp;</p>
               <p>
-                Contractor:  P Subramani & Co.
+                Contractor:  P Subramani & Co.<br>
                 1. Extension of D1 Type quarters – 1200 Sq m
               </p>
                <p>&nbsp;</p>
                <p>
-                Contractor: ESVEE Constructions
+                Contractor: ESVEE Constructions<br>
                  1.Extension of D1 Type quarters – 1200 Sq m
                
-               </p>
+               </p> <p>&nbsp;</p>
                 <p>
-                Contractor: Creators Engineers India Pvt. Ltd
+                Contractor: Creators Engineers India Pvt. Ltd<br>
                  1.Various Buildings in Academic, Residential & hostel Zones – 19000 Sq m
                
                </p>
@@ -127,18 +127,38 @@
                   <a href="#">Tirumala Tirupati devastanams</a>
                 </h5>
                 <p>
-                1.Water proofing of Astana Mandapam – 2000 Sq m
-                2. Nagalavaram Temple – 800 Sq m
+                1.Water proofing of Astana Mandapam – 2000 Sq m<br>
+                2. Nagalavaram Temple – 800 Sq m<br>
                </p>
              
               
               </div>
             </article>
 
+            <article class="indurance-news-item">
+              <div class="news-content">
+                <h5 class="title">
+                  <a href="#"> Central Public works Department (CPWD)</a>
+                </h5>
+                <p>
+               1. Thunnga, Bhadra and Sabramathi Hostels at IIT Madras – 1500 Sq m
+               </p>
+              <p>&nbsp;</p>
+              <p>Military Engineering Services  (MES)<br>
+                1. Area officers mess at Island ground, Chennai – 2690 Sq m</p>
+                 <p>&nbsp;</p>
+                 <p>SSPDL Interserve Pvt. Ltd, Chennai<br>
+                  1. Construction of residential apartment & Club house at Puthupakkam, Chennai  - 10053 Sq m</p>
+                  <p>&nbsp;</p>
+                  FLOWSERVE India Controls Pvt. Ltd<br>
+                  1. Factory building at Maramalai Nagar – 7935 Sq m
+              </div>
+            </article>
+
           </div>
          
         </div>
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-lg-12">
             <div class="indurance-blog-pagination">
               <ul>
@@ -157,7 +177,7 @@
               </ul>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
      <?= require_once('_footer.php') ?>

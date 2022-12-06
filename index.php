@@ -41,10 +41,10 @@
             <div class="home-01-banner-content">
               <span class="subtitle">CHEMIX</span>
               <h1 class="title">specialized in concrete <br>repair and structural <br>waterproofing solutions </h1>
-              <p>An ellipsis for CHEMIX Company, 'Chemical mixing is literally what it sounds - a chemical company whose business is into the mixing of it for the appropriate use'.</p>
-              <div class="btn-wrapper">
+            <!--   <p>An ellipsis for CHEMIX Company, 'Chemical mixing is literally what it sounds - a chemical company whose business is into the mixing of it for the appropriate use'.</p> -->
+             <!--  <div class="btn-wrapper">
                 <a href="operations.php" class="template-btn">Learn more</a>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
@@ -334,8 +334,8 @@ We are a company specialized in application as per the system specification and 
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
-                            <h6 class="title">India Land</h6>
-                           <!--  <span>company title</span> -->
+                            <h6 class="title">India Land Properties Ltd.</h6>
+                          <span>I T park @ Ambattur</span> 
                         </div>
                     </div>
                  </div>
@@ -349,7 +349,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">ECCI</h6>
-                           <!--  <span>company title</span> -->
+                            <span>Chennai</span> 
                         </div>
                     </div>
                  </div>

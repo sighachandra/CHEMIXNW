@@ -14,7 +14,7 @@
 								<li class="call-us-part white">
 									<div class="icon"> <i class="la la-phone-volume"></i> </div>
 									<div class="content">
-										<h4 class="title">call us</h4> <span class="detials">+91 9445700927</span> </div>
+										<h4 class="title">call us</h4> <span class="detials">+91 9445700927 / 044-23820927</span> </div>
 								</li>
 								<li class="mail-part white">
 									<div class="icon"> <i class="la la-envelope-open"></i> </div>
@@ -69,7 +69,7 @@
 					<div class="copyright-left"> <span>Designed & Developed By Qudit</span> </div>
 				</div>
 				<div class="col-md-7">
-					<div class="copyright-right"> <span>&copy; copyright 2020. all rights reserved.</span> </div>
+					<div class="copyright-right"> <span>&copy; copyright 2022. all rights reserved.</span> </div>
 				</div>
 			</div>
 		</div>

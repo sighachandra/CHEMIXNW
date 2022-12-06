@@ -34,7 +34,7 @@
 												<div class="icon"> <i class="la la-phone-volume"></i> </div>
 											</div>
 											<div class="call-us-text">
-												<h4 class="title">call us</h4> <span class="details">+91 9445700927</span> </div>
+												<h4 class="title">call us</h4> <span class="details">044-23820927 / +91 9445700927</span> </div>
 										</li>
 										<li class="mail-part">
 											<div class="mail-us-icon">

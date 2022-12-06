@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-  <!-- Mirrored from bytesed.com/tf/indurance/service.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Jun 2022 17:40:10 GMT -->
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

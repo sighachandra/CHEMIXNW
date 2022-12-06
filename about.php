@@ -93,7 +93,7 @@
           <div class="col-lg-3">
             <div class="cta-button">
               <a href="tel:789456123" class="template-btn">
-                <i class="fa fa-phone"> 786-344-9868</i>
+                <i class="fa fa-phone"> +91 9445700927</i>
               </a>
             </div>
           </div>
