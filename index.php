@@ -140,7 +140,7 @@
         <!-- Beginining of the division -->
         <div class="row">
            <div class="col-xl-12 col-lg-12 col-md-12">
-              <img src="assets/images/operations/what-we-do-banner.png" style="width: 100%;">
+              <img src="assets/images/operations/what-we-do-banner.png" style="width: 100%;border-radius:5px;">
             </div>
         
         
