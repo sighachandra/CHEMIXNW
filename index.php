@@ -123,6 +123,32 @@
             </div>
           </div>
 
+           <div class="col-lg-4 col-md-6">
+            <div class="indurance-feature-item">
+              <div class="feature-image">
+               
+                <img src="assets/images/operations/sewage-treatment-plan.png" alt="">
+              </div>
+              <div class="feature-content">
+              <!--   <span class="subtitle">civil engineering</span> -->
+                <h5 class="title">Sewage Treatment Plant</h5>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="indurance-feature-item">
+              <div class="feature-image">
+               
+                <img src="assets/images/operations/sewage-treatment-plan.png" alt="">
+              </div>
+              <div class="feature-content">
+              <!--   <span class="subtitle">civil engineering</span> -->
+                <h5 class="title">Ground level water proof treatment</h5>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
     </section>
@@ -525,18 +551,18 @@ We are a company specialized in application as per the system specification and 
     <section class="cta-section padding-60">
       <div class="container">
         <div class="row">
-          <div class="col-lg-9">
+          <div class="col-lg-12">
             <div class="cta-content">
               <h4 class="title">Provide You The Highest Quality Work </h4>
             </div>
           </div>
-          <div class="col-lg-3">
+          <!-- <div class="col-lg-3">
             <div class="cta-button">
-              <a href="tel:789456123" class="template-btn">
-                <i class="fa fa-phone"> +91 9445700927</i>
+              <b><a href="tel:789456123" class="template-btn">
+                <i class="fa fa-phone"> <b>+91 9445700927</b></i>
               </a>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </section>

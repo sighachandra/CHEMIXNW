@@ -124,7 +124,6 @@
                <img src="assets/images/operations/Polyurethane.png" alt="">
               </div>
               <div class="feature-content">
-               
                 <div class="freaure-title">
                   <a href="#">
                     <h6 class="title">Polyurethane / Epoxy / cement based precision Grouting</h6>
@@ -133,6 +132,39 @@
               </div>
             </div>
           </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="indurance-feature-item-04">
+              <div class="feature-image">
+                <img src="assets/images/operations/sewage-treatment-plan.png" alt="">
+              </div>
+              <div class="feature-content">
+                <div class="freaure-title">
+                  <a href="#">
+                    <h6 class="title">Sewage Treatment Plant</h6>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="indurance-feature-item-04">
+              <div class="feature-image">
+                <img src="assets/images/operations/sewage-treatment-plan.png" alt="">
+              </div>
+              <div class="feature-content">
+                <div class="freaure-title">
+                  <a href="#">
+                    <h5 class="title">Ground level water proof treatment</h5>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          
+
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
