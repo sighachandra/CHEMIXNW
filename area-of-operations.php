@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Indurance - Chemical & Factory HTML Template</title>
+     <title>Chemix - Specialized In Concrete Repair And Structural Waterproofing Solutions</title>
     <link rel=icon href=favicon.png sizes="20x20" type="image/png">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">

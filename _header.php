@@ -42,8 +42,9 @@
 											</div>
 											<div class="mail-us-text">
 												<h4 class="title">send us mail</h4> <span>
-                            <a href="mailto:">contact@chemix-cc.com</a>
-                          </span> </div>
+                            					<a href="mailto:">contact@chemix-cc.com</a>
+                          						</span> 
+                          					</div>
 										</li>
 									</ul>
 								</div>
@@ -66,6 +67,7 @@
 					<li class="<?= ($page=='area-of-operations')? 'activemenu':'' ?>"> <a href="area-of-operations.php">Operations</a> </li>
 					<li class="<?= ($page=='trusted-partners')? 'activemenu':'' ?>"> <a href="our-trusted-partners.php">Our Trusted Partners</a> </li>
 					<li class="<?= ($page=='projects')? 'activemenu':'' ?>"> <a href="projects.php">Projects</a> </li>
+					<li class="<?= ($page=='gallery')? 'activemenu':'' ?>"> <a href="gallery.php">Gallery</a> </li>
 					<li class="<?= ($page=='contact')? 'activemenu':'' ?>"> <a href="contact.php">Contact</a> </li>
 				</ul>
 			</div>
