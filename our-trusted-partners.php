@@ -405,37 +405,11 @@
         </div>
     </div>
 </section>
-
-
-
-
-<!-- <section class="cta-section padding-60">
-<div class="container">
-<div class="row">
-<div class="col-lg-9">
-<div class="cta-content">
-<h4 class="title">We Provide You The Highest Quality Work </h4>
-</div>
-</div>
-<div class="col-lg-3">
-<div class="cta-button">
-<a href="tel:789456123" class="template-btn"><i class="fa fa-phone"> 786-344-9868</i></a>
-</div>
-</div>
-</div>
-</div>
-</section> -->
-
-
-   <?php require_once('_footer.php') ?>
-
-
+<?php require_once('_footer.php') ?>
 <div class="back-to-top">
 <i class="la la-chevron-circle-up"></i>
 </div>
-
-
-
+<script src="assets/js/jquery-2.2.4.min.js"></script>
 <script src="assets/js/popper.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.magnific-popup.js"></script>
