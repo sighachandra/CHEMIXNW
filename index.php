@@ -39,8 +39,9 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="home-01-banner-content">
-              <span class="subtitle">CHEMIX</span>
+              <span class="subtitle">CHEMIX-Building Concrete Relations</span>
               <h1 class="title">specialized in concrete <br>repair and structural <br>waterproofing solutions </h1>
+             <!--  <p>Building Concrete Relations</p> -->
             <!--   <p>An ellipsis for CHEMIX Company, 'Chemical mixing is literally what it sounds - a chemical company whose business is into the mixing of it for the appropriate use'.</p> -->
              <!--  <div class="btn-wrapper">
                 <a href="operations.php" class="template-btn">Learn more</a>

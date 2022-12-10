@@ -62,7 +62,8 @@
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
-                            <h6 class="title">Indian Space Research Organisation</h6>
+                            <h6 class="title">SDSC-SHAR</h6>
+                            <span>Sriharikota</span>
                         </div>
                     </div>
                  </div>
@@ -176,21 +177,21 @@
                  </div>
             </div> 
 
-             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+            <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
                     <div class="project-image">
                         <img src="assets/images/our-trusted-partners/lpsc.png" alt="">
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
-                            <h6 class="title">lpsc</h6>
-                           <!--  <span>company title</span> -->
+                            <h6 class="title">ISRO Propulsion Complex</h6>
+                           <span>Mahendragiri</span> 
                         </div>
                     </div>
                  </div>
             </div> 
 
-             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+            <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
                     <div class="project-image">
                         <img src="assets/images/our-trusted-partners/ttd.png" alt="">
@@ -239,8 +240,8 @@
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
-                            <h6 class="title">ISRO</h6>
-                            <span>VSSC</span>
+                            <h6 class="title">VSSC</h6>
+                            <span>Trivandrum,Kerala</span>
                         </div>
                     </div>
                  </div>
@@ -331,6 +332,75 @@
                  </div>
             </div> 
 
+            <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/sspdl.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">SSPDL Interserve Pvt Ltd</h6>
+                             <span>Chennai</span> 
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
+             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/flowserve.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">Flowserve</h6>
+                             <span>Chennai</span> 
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
+             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/cpwd.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">CPWD</h6>
+                            <!--  <span>Chennai</span>  -->
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
+              <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/cpwd.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">ESVEE Constructions</h6>
+                              <span>Chennai</span>  
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
+            <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/hke.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">Harikrishna Engineering Pvt Ltd</h6>
+                              <span>Visakhapatanam, AP</span>  
+                        </div>
+                    </div>
+                 </div>
+            </div> 
   
         </div>
     </div>
@@ -339,7 +409,7 @@
 
 
 
-<section class="cta-section padding-60">
+<!-- <section class="cta-section padding-60">
 <div class="container">
 <div class="row">
 <div class="col-lg-9">
@@ -354,7 +424,7 @@
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 
   <footer class="footer-area">

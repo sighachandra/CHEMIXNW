@@ -143,7 +143,7 @@
                         <i class="la la-map-marker"></i>
                       </div>
                       <div class="address-text">
-                        <span>address</span>Chemix Structural Services, D.No.3-6-58, Nethaji Street, Raghavaiahpeta, Sullurpeta, Tirupati district, AP-524 121
+                        <span>Branch for AP</span>Chemix Structural Services, D.No.3-6-58, Nethaji Street, Raghavaiahpeta, Sullurpeta, Tirupati district, AP-524 121
                         
 
                       </div>

@@ -154,7 +154,7 @@
 
 
   
-    <section class="cta-section padding-60">
+   <!--  <section class="cta-section padding-60">
       <div class="container">
         <div class="row">
           <div class="col-lg-9">
@@ -171,7 +171,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
      <?= require_once('_footer.php') ?>
     <div class="back-to-top">
       <i class="la la-chevron-circle-up"></i>

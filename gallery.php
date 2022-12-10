@@ -201,6 +201,36 @@
             </div>
           </div>
 
+           <div class="col-xl-3 col-lg-4 col-sm-6 grid-item concrete-repair">
+            <div class="indurance-project-item">
+              <div class="project-image">
+                <a data-fancybox="gallery" href="assets/images/gallery/large/Concrete-repair-and-rehabilitation-3.jpg">
+                    <img src="assets/images/gallery/small/Concrete-repair-and-rehabilitation-3.png">
+                </a>
+              </div>
+            </div>
+          </div>
+
+           <div class="col-xl-3 col-lg-4 col-sm-6 grid-item concrete-repair">
+            <div class="indurance-project-item">
+              <div class="project-image">
+                <a data-fancybox="gallery" href="assets/images/gallery/large/Concrete-repair-and-rehabilitation-4.jpg">
+                    <img src="assets/images/gallery/small/Concrete-repair-and-rehabilitation-4.png">
+                </a>
+              </div>
+            </div>
+          </div>
+
+           <div class="col-xl-3 col-lg-4 col-sm-6 grid-item concrete-repair">
+            <div class="indurance-project-item">
+              <div class="project-image">
+                <a data-fancybox="gallery" href="assets/images/gallery/large/Concrete-repair-and-rehabilitation-5.jpg">
+                    <img src="assets/images/gallery/small/Concrete-repair-and-rehabilitation-5.png">
+                </a>
+              </div>
+            </div>
+          </div>
+
          
         </div>
       </div>
