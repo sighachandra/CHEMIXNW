@@ -566,18 +566,15 @@ We are a company specialized in application as per the system specification and 
         </div>
       </div>
     </section>
-    <?= require_once('_footer.php') ?>
+    <?php require_once('_footer.php') ?>
     <div class="back-to-top">
       <i class="la la-chevron-circle-up"></i>
     </div>
-    <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+
     <script src="assets/js/jquery-2.2.4.min.js"></script>
     <script src="assets/js/popper.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/jquery.magnific-popup.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/waypoints.min.js"></script>
-    <script src="assets/js/jquery.counterup.min.js"></script>
+
     <script src="assets/js/imagesloaded.pkgd.min.js"></script>
     <script src="assets/js/isotope.pkgd.min.js"></script>
     <script src="assets/js/slick.min.js"></script>

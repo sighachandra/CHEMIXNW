@@ -204,7 +204,7 @@
         </div>
       </div>
     </section> -->
-     <?= require_once('_footer.php') ?>
+    <?php require_once('_footer.php') ?>
     <div class="back-to-top">
       <i class="la la-chevron-circle-up"></i>
     </div>

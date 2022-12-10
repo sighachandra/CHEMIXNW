@@ -197,7 +197,7 @@ RTR store at SRC area – 1500 Sq m </p>
         </div> -->
       </div>
     </div>
-     <?= require_once('_footer.php') ?>
+     <?php require_once('_footer.php') ?>
     <div class="back-to-top">
       <i class="la la-chevron-circle-up"></i>
     </div>

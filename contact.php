@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-  <!-- Mirrored from bytesed.com/tf/indurance/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Jun 2022 17:40:20 GMT -->
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -178,11 +177,11 @@
         </div>
       </div>
     </section>
-  <?= require_once('_footer.php') ?>
+    <?php require_once('_footer.php') ?>
     <div class="back-to-top">
       <i class="la la-chevron-circle-up"></i>
     </div>
-    <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+   
     <script src="assets/js/jquery-2.2.4.min.js"></script>
     <script src="assets/js/popper.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
