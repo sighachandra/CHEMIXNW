@@ -67,6 +67,23 @@
                 1. Nakshatra VVIP Guest House – 6000 Sq m
               </p>
                <p>&nbsp;</p>
+
+               <p>Contarctor: M/s. G V Subba Rao, Sullurpeta<br>
+    1. PSOM/PSOMXL Preparation building – 1795 Sq m
+     </p>
+               <p>&nbsp;</p>
+
+<p>Contractor: M/s. T Prasad Rao, Sullurpeta<br>
+    1. Additional main curing building at SPP – 1500 Sq m </p>
+               <p>&nbsp;</p>
+
+<p>Contractor: M V Subba Reddy<br>
+    1. Construction of new L40 building at PSLV – 1500 Sq m<br>
+
+RTR store at SRC area – 1500 Sq m </p>
+               <p>&nbsp;</p>
+
+
                <p>
                 Contractor: R R Thulasi Builders India Pvt. Ltd<br>
                  1. Construction of S200, S139 NDT Building at SPP – 4500 sq m<br>
