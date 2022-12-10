@@ -523,7 +523,77 @@ We are a company specialized in application as per the system specification and 
                         </div>
                     </div>
                  </div>
+            </div>
+
+             <div class="col-xl-2 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/sspdl.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">SSPDL Interserve Pvt Ltd</h6>
+                             <span>Chennai</span> 
+                        </div>
+                    </div>
+                 </div>
             </div> 
+
+             <div class="col-xl-2 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/flowserve.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">Flowserve</h6>
+                             <span>Chennai</span> 
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
+             <div class="col-xl-2 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/cpwd.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">CPWD</h6>
+                            <!--  <span>Chennai</span>  -->
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
+              <div class="col-xl-2 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/esvee.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">ESVEE Constructions</h6>
+                              <span>Chennai</span>  
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
+            <div class="col-xl-2 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/hke.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">Harikrishna Engineering Pvt Ltd</h6>
+                              <span>Visakhapatanam, AP</span>  
+                        </div>
+                    </div>
+                 </div>
+            </div>  
 
   
         </div>

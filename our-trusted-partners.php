@@ -377,7 +377,7 @@
               <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
                     <div class="project-image">
-                        <img src="assets/images/our-trusted-partners/cpwd.png" alt="">
+                        <img src="assets/images/our-trusted-partners/esvee.png" alt="">
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">

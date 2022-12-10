@@ -52,7 +52,7 @@ Version: 1.0
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
-:root { --main-color-one: #ff5820; --secondary-color: #191d33; --heading-color: #000000; --paragraph-color: #555555; --white-color: #ffffff; --white-soft-color: #f3f3f3; --border-color: #d7d7d7; --heading-font:'Montserrat', sans-serif; --body-font: 'Roboto', sans-serif; }
+:root { --main-color-one: #ff5820; --secondary-color: #381093; --heading-color: #000000; --paragraph-color: #555555; --white-color: #ffffff; --white-soft-color: #f3f3f3; --border-color: #d7d7d7; --heading-font:'Montserrat', sans-serif; --body-font: 'Roboto', sans-serif; }
 
 html { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; overflow-x: hidden; font-family: var(--body-font); }
 
