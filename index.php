@@ -139,92 +139,13 @@
         </div>
         <!-- Beginining of the division -->
         <div class="row">
-          <!-- first section -->
-          <div class="col-xl-3 col-lg-4 col-md-5">
-            <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-              <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
-               
-                <div class="tab-list-content">
-                  <h6 class="title">Substructure / structural / super structural Water Proofing</h6>
-                </div>
-              </a>
-             <!--  <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">
-                <div class="tab-list-icon">
-                  <i class="fa fa-industry"></i>
-                </div>
-                <div class="tab-list-content">
-                  <h6 class="title">environment friendly</h6>
-                </div>
-              </a> -->
-              <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">
-               
-                <div class="tab-list-content">
-                  <h6 class="title">Concrete Repair & Rehabilitation works</h6>
-                </div>
-              </a>
+           <div class="col-xl-12 col-lg-12 col-md-12">
+              <img src="assets/images/operations/what-we-do-banner.png" style="width: 100%;">
             </div>
-          </div>
-          <!-- modern technology description -->
-          <div class="col-xl-9 col-lg-8 col-md-7">
-            <div class="tab-content" id="v-pills-tabContent">
-              <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                <div class="row">
-                  <div class="col-lg-7">
-                    <h4 class="title">Substructure / structural / super structural Water Proofing</h4>
-                   <!--  <p>We are able to guarantee a very high level of satisfaction for our clients. Pharetra libero non facilisis imperdiet, mi augue feugiat nisl sit amet mollis enim velit Vestibulum fringilla nulla ultricies.</p>
-                    <p>We are able to guarantee a very high level of satisfaction for our clients. Pharetra libero non facilisis imperdiet, mi augue feugiat nisl sit amet mollis enim velit Vestibulum fringilla nulla ultricies.</p> -->
-                    <ul>
-                      <li>
-                        <i class="fa fa-check-circle-o"></i>PVC Water proofing Membranes – Basements & Roof / Terrace Exposed areas
-                      </li>
-                      <li>
-                        <i class="fa fa-check-circle-o"></i>APP & SBS modified membranes (Torch applied & Self adhesive)
-                      </li>
-                      <li>
-                        <i class="fa fa-check-circle-o"></i>PolyUrethane coatings Exposed & Un exposed areas
-                      </li>
-                      <li>
-                        <i class="fa fa-check-circle-o"></i>Acrylic Polymer multi layer HD systems
-                      </li>
-                      <li>
-                        <i class="fa fa-check-circle-o"></i>Polymer modified cementitious systems
-                      </li>
-                      <li>
-                        <i class="fa fa-check-circle-o"></i>Crystalline coatings
-                      </li>
-                    </ul>
-                  </div>
-                  <div class="col-lg-5">
-                    <img src="assets/images/home-01/tab-content-01.jpg" alt="">
-                  </div>
-                </div>
-              </div>
+        
+        
             
-              <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-                <div class="row">
-                  <div class="col-lg-7">
-                    <h4 class="title">Concrete Repair & Rehabilitation works</h4>
-                   <!--  <p>We are able to guarantee a very high level of satisfaction for our clients. Pharetra libero non facilisis imperdiet, mi augue feugiat nisl sit amet mollis enim velit Vestibulum fringilla nulla ultricies.</p>
-                    <p>We are able to guarantee a very high level of satisfaction for our clients. Pharetra libero non facilisis imperdiet, mi augue feugiat nisl sit amet mollis enim velit Vestibulum fringilla nulla ultricies.</p> -->
-                    <ul>
-                      <li>
-                        <i class="fa fa-check-circle-o"></i>Micro Concreting
-                      </li>
-                      <li>
-                        <i class="fa fa-check-circle-o"></i>Epoxy Repairs
-                      </li>
-                      <li>
-                        <i class="fa fa-check-circle-o"></i>Carbon Fiber wrapping
-                      </li>
-                     <!--  <li>
-                        <i class="fa fa-check-circle-o"></i>Mike suspectas habere possunt, sed quod.
-                      </li> -->
-                    </ul>
-                  </div>
-                  <div class="col-lg-5">
-                    <img src="assets/images/home-01/tab-content-01.jpg" alt="">
-                  </div>
-                </div>
+             
               </div>
             </div>
           </div>
