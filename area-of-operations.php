@@ -61,37 +61,39 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
-                <img src="assets/images/operations/water-proofing.png" alt="">
+                   <img src="assets/images/operations/structural-wp.jpg" alt="">
               </div>
               <div class="feature-content">
                 
                 <div class="freaure-title">
                   <a href="#">
-                    <h6 class="title">Substructure / structural / super structural Water Proofing</h6>
+                    <h6 class="title">Substructure / structural  Water Proofing</h6>
                   </a>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+
+           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
-                 <img src="assets/images/operations/flooring.png" alt="">
+                     <img src="assets/images/operations/Terrace.jpg" alt="">
               </div>
               <div class="feature-content">
-              
+                
                 <div class="freaure-title">
                   <a href="#">
-                    <h6 class="title">Industrial and commercial performance flooring systems</h6>
+                     <h5 class="title">Roof/Terrace Water Proofing</h5>
                   </a>
                 </div>
               </div>
             </div>
           </div>
+        
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
-                 <img src="assets/images/operations/masonry.png" alt="">
+                 <img src="assets/images/operations/masonry.jpg" alt="">
               </div>
               <div class="feature-content">
                
@@ -106,7 +108,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
-                <img src="assets/images/operations/expansion.png" alt="">
+                <img src="assets/images/operations/joint-expantion.jpg" alt="">
               </div>
               <div class="feature-content">
                 
@@ -121,7 +123,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
-               <img src="assets/images/operations/Polyurethane.png" alt="">
+                <img src="assets/images/operations/PU-Epoxy-injection-grouting-3.png" alt="">
               </div>
               <div class="feature-content">
                 <div class="freaure-title">
@@ -133,22 +135,8 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6">
-            <div class="indurance-feature-item-04">
-              <div class="feature-image">
-                <img src="assets/images/operations/sewage-treatment-plan.png" alt="">
-              </div>
-              <div class="feature-content">
-                <div class="freaure-title">
-                  <a href="#">
-                    <h6 class="title">Sewage Treatment Plant</h6>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
 
-          <div class="col-lg-4 col-md-6">
+       <!--    <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
                 <img src="assets/images/operations/sewage-treatment-plan.png" alt="">
@@ -161,14 +149,14 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           
 
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item-04">
               <div class="feature-image">
-                <img src="assets/images/operations/Concrete_Repair.png" alt="">
+                <img src="assets/images/operations/Concrete-repair-and-rehabilitation-5.png" alt="">
               </div>
               <div class="feature-content">
                 
@@ -180,6 +168,57 @@
               </div>
             </div>
           </div>
+
+
+          <div class="col-lg-4 col-md-6">
+            <div class="indurance-feature-item-04">
+              <div class="feature-image">
+                <img src="assets/images/operations/sewage.png" alt="">
+              </div>
+              <div class="feature-content">
+                <div class="freaure-title">
+                  <a href="#">
+                    <h6 class="title">Sewage Treatment Plant</h6>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+            <div class="col-lg-4 col-md-6">
+            <div class="indurance-feature-item-04">
+              <div class="feature-image">
+                 <img src="assets/images/operations/industrial-flooring.jpg" alt="">
+              </div>
+              <div class="feature-content">
+              
+                <div class="freaure-title">
+                  <a href="#">
+                    <h6 class="title">Industrial and commercial performance flooring systems</h6>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+           <div class="col-lg-4 col-md-6">
+            <div class="indurance-feature-item-04">
+              <div class="feature-image">
+                 <img src="assets/images/operations/grouting.jpg" alt="">
+              </div>
+              <div class="feature-content">
+              
+                <div class="freaure-title">
+                  <a href="#">
+                    <h6 class="title">Construnction / Precision Grouting</h6>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
         </div>
       </div>
     </section>
