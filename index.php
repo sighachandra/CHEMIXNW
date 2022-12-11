@@ -40,7 +40,7 @@
           <div class="col-lg-12">
             <div class="home-01-banner-content">
             <!--   <span class="subtitle">Building Concrete Relations</span> -->
-              <h1 class="title">specialized in concrete <br>repair and structural <br>waterproofing solutions </h1>
+              <h1 class="title">specialized in concrete repair<br> & structural waterproofing solutions </h1>
              <!--  <p>Building Concrete Relations</p> -->
             <!--   <p>An ellipsis for CHEMIX Company, 'Chemical mixing is literally what it sounds - a chemical company whose business is into the mixing of it for the appropriate use'.</p> -->
              <!--  <div class="btn-wrapper">
