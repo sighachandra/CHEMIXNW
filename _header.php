@@ -71,8 +71,8 @@
 					<li class="<?= ($page=='contact')? 'activemenu':'' ?>"> <a href="contact.php">Contact</a> </li>
 				</ul>
 			</div>
-			<div class="nav-right-content indurance-nav-right"> Need Estimate? <span>
-            <a href="contact.php">request a quote</a>
+			<div class="nav-right-content indurance-nav-right"><span>
+            <a id="flashtext" href="#">Building Concrete Relations</a>
           </span> </div>
 		</div>
 	</nav>

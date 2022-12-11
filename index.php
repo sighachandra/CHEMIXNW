@@ -39,7 +39,7 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="home-01-banner-content">
-              <span class="subtitle">CHEMIX-Building Concrete Relations</span>
+              <span class="subtitle">Building Concrete Relations</span>
               <h1 class="title">specialized in concrete <br>repair and structural <br>waterproofing solutions </h1>
              <!--  <p>Building Concrete Relations</p> -->
             <!--   <p>An ellipsis for CHEMIX Company, 'Chemical mixing is literally what it sounds - a chemical company whose business is into the mixing of it for the appropriate use'.</p> -->
@@ -57,29 +57,32 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item">
               <div class="feature-image">
-                <img src="assets/images/operations/water-proofing.png" alt="">
+                <img src="assets/images/operations/structural-wp.jpg" alt="">
               </div>
               <div class="feature-content">
                <!--  <span class="subtitle">chemical reserch</span> -->
-                <h5 class="title">Substructure / structural / super structural Water Proofing</h5>
+                <h5 class="title">Substructure / Structural Water Proofing</h5>
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+
+            <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item">
               <div class="feature-image">
-                 <img src="assets/images/operations/flooring.png" alt="">
+                <img src="assets/images/operations/Terrace.jpg" alt="">
               </div>
               <div class="feature-content">
-                <!-- <span class="subtitle">mechanical engineering</span> -->
-                <h5 class="title">Industrial and commercial performance flooring systems</h5>
+               <!--  <span class="subtitle">chemical reserch</span> -->
+                <h5 class="title">Roof/Terrace Water Proofing</h5>
               </div>
             </div>
           </div>
+
+         
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item">
               <div class="feature-image">
-                 <img src="assets/images/operations/masonry.png" alt="">
+                 <img src="assets/images/operations/masonry.jpg" alt="">
               </div>
               <div class="feature-content">
               <!--   <span class="subtitle">civil engineering</span> -->
@@ -91,7 +94,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item">
               <div class="feature-image">
-               <img src="assets/images/operations/expansion.png" alt="">
+               <img src="assets/images/operations/joint-expantion.jpg" alt="">
               </div>
               <div class="feature-content">
                <!--  <span class="subtitle">chemical reserch</span> -->
@@ -102,11 +105,11 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item">
               <div class="feature-image">
-                 <img src="assets/images/operations/Polyurethane.png" alt="">
+                 <img src="assets/images/operations/PU-Epoxy-injection-grouting-3.png" alt="">
               </div>
               <div class="feature-content">
                 <!-- <span class="subtitle">mechanical engineering</span> -->
-                <h5 class="title">Polyurethane / Epoxy / cement based precision Grouting</h5>
+                <h5 class="title">Polyurethane / Epoxy / Injection Groutings </h5>
               </div>
             </div>
           </div>
@@ -114,11 +117,11 @@
             <div class="indurance-feature-item">
               <div class="feature-image">
                
-                 <img src="assets/images/operations/Concrete_Repair.png" alt="">
+                 <img src="assets/images/operations/Concrete-repair-and-rehabilitation-5.png" alt="">
               </div>
               <div class="feature-content">
               <!--   <span class="subtitle">civil engineering</span> -->
-                <h5 class="title">Concrete Repair & Rehabilitation works</h5>
+                <h5 class="title">Concrete Repair & Strengthening works</h5>
               </div>
             </div>
           </div>
@@ -127,11 +130,23 @@
             <div class="indurance-feature-item">
               <div class="feature-image">
                
-                <img src="assets/images/operations/sewage-treatment-plan.png" alt="">
+                <img src="assets/images/operations/sewage.png" alt="">
               </div>
               <div class="feature-content">
               <!--   <span class="subtitle">civil engineering</span> -->
-                <h5 class="title">Sewage Treatment Plant</h5>
+                <h5 class="title">Sewage Treatment Plant Coatings</h5>
+              </div>
+            </div>
+          </div>
+
+           <div class="col-lg-4 col-md-6">
+            <div class="indurance-feature-item">
+              <div class="feature-image">
+                 <img src="assets/images/operations/industrial-flooring.jpg" alt="">
+              </div>
+              <div class="feature-content">
+                <!-- <span class="subtitle">mechanical engineering</span> -->
+                <h5 class="title">Industrial and commercial performance flooring systems</h5>
               </div>
             </div>
           </div>
@@ -139,12 +154,11 @@
           <div class="col-lg-4 col-md-6">
             <div class="indurance-feature-item">
               <div class="feature-image">
-               
-                <img src="assets/images/operations/sewage-treatment-plan.png" alt="">
+                 <img src="assets/images/operations/grouting.jpg" alt="">
               </div>
               <div class="feature-content">
-              <!--   <span class="subtitle">civil engineering</span> -->
-                <h5 class="title">Ground level water proof treatment</h5>
+                <!-- <span class="subtitle">mechanical engineering</span> -->
+                <h5 class="title">Construnction / Precision Grouting</h5>
               </div>
             </div>
           </div>
@@ -179,11 +193,11 @@
       </div>
     </section>
 
-    <section class="videos-section padding-top-115 padding-bottom-90">
+   <!--  <section class="videos-section padding-top-115 padding-bottom-90">
       <div class="container">
         <div class="row">
           <div class="col-lg-5 col-md-4 align-self-center">
-            <!-- <div class="video-play-button"><a href="https://www.youtube.com/watch?v=bJ3RJlmGn6k" class="button-video"><i class="fa fa-play"></i></a></div> -->
+           
           </div>
           <div class="col-lg-7 col-md-8">
             <div class="video-content">
@@ -197,9 +211,9 @@ We are a company specialized in application as per the system specification and 
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
    
-    <section class="partners-section padding-top-130 padding-bottom-85">
+  <!--   <section class="partners-section padding-top-130 padding-bottom-85">
       <div class="container">
          <div class="row">
           <div class="col-lg-12">
@@ -229,7 +243,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">Military Engineering Service</h6>
-                          <!--   <span>company title</span> -->
+                         
                         </div>
                     </div>
                  </div>
@@ -255,7 +269,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">NARL</h6>
-                           <!--  <span>company title</span> -->
+                          
                         </div>
                     </div>
                  </div>
@@ -269,7 +283,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">Shriram Ep</h6>
-                           <!--  <span>company title</span> -->
+                          
                         </div>
                     </div>
                  </div>
@@ -310,7 +324,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">BK Consortium</h6>
-                           <!--  <span>company title</span> -->
+                         
                         </div>
                     </div>
                  </div>
@@ -324,7 +338,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">Creators Engineers & Interiors Pvt Ltd. Chennai</h6>
-                           <!--  <span>company title</span> -->
+                         
                         </div>
                     </div>
                  </div>
@@ -338,7 +352,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">lpsc</h6>
-                           <!--  <span>company title</span> -->
+                          
                         </div>
                     </div>
                  </div>
@@ -352,7 +366,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">TTD</h6>
-                           <!--  <span>company title</span> -->
+                          
                         </div>
                     </div>
                  </div>
@@ -366,7 +380,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">Shapoorji Pallonji</h6>
-                           <!--  <span>company title</span> -->
+                         
                         </div>
                     </div>
                  </div>
@@ -380,7 +394,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">MCF</h6>
-                           <!--  <span>company title</span> -->
+                         
                         </div>
                     </div>
                  </div>
@@ -394,7 +408,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">VSSC</h6>
-                           <!--  <span>company title</span> -->
+                        
                         </div>
                     </div>
                  </div>
@@ -408,7 +422,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">P Subramani & Co</h6>
-                           <!--  <span>company title</span> -->
+                          
                         </div>
                     </div>
                  </div>
@@ -422,7 +436,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">DAE</h6>
-                           <!--  <span>company title</span> -->
+                        
                         </div>
                     </div>
                  </div>
@@ -436,7 +450,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">RR Thulasi Builders India Pvt Ltd</h6>
-                           <!--  <span>company title</span> -->
+                         
                         </div>
                     </div>
                  </div>
@@ -508,7 +522,7 @@ We are a company specialized in application as per the system specification and 
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">CPWD</h6>
-                            <!--  <span>Chennai</span>  -->
+                          
                         </div>
                     </div>
                  </div>
@@ -545,7 +559,7 @@ We are a company specialized in application as per the system specification and 
   
         </div>
       </div>
-    </section>
+    </section> -->
     
 
     <section class="cta-section padding-60">
@@ -574,11 +588,20 @@ We are a company specialized in application as per the system specification and 
     <script src="assets/js/jquery-2.2.4.min.js"></script>
     <script src="assets/js/popper.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
-
+    <script src="assets/js/jquery.magnific-popup.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
     <script src="assets/js/imagesloaded.pkgd.min.js"></script>
     <script src="assets/js/isotope.pkgd.min.js"></script>
     <script src="assets/js/slick.min.js"></script>
     <script src="assets/js/easing.min.js"></script>
     <script src="assets/js/main.js"></script>
+    <script type="text/javascript">
+        setInterval(function () {
+           $("#flashtext").fadeOut(1200);
+        $("#flashtext").fadeIn(1200)
+        },100)
+    </script>
   </body>
 </html>
