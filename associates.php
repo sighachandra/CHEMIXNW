@@ -55,11 +55,35 @@
         </div>
       </div>
     </section>
+  
+  
     <section class="service-page-feature padding-top-120 padding-bottom-90">
       <div class="container">
         <div class="row">
-  
-
+          <div class="col-lg-4 col-md-6">
+            <div class="indurance-feature-item-04">
+              <div class="feature-image">
+                 <img src="assets/images/logo/fab.png" alt="">
+              </div>
+            </div>
+          </div>
+           <div class="col-lg-4 col-md-6">
+            <div class="indurance-feature-item-04">
+              <div class="feature-image">
+                 <img src="assets/images/logo/sika.png" alt="">
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="indurance-feature-item-04">
+              <div class="feature-image">
+                <img src="assets/images/logo/maris.png" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
 
 
@@ -83,6 +107,12 @@
     <script src="assets/js/slick.min.js"></script>
     <script src="assets/js/easing.min.js"></script>
     <script src="assets/js/main.js"></script>
+     <script type="text/javascript">
+        setInterval(function () {
+           $("#flashtext").fadeOut(1200);
+        $("#flashtext").fadeIn(1200)
+        },100)
+    </script>
   </body>
   
 </html>

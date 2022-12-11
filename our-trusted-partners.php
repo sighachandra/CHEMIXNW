@@ -401,6 +401,33 @@
                     </div>
                  </div>
             </div> 
+
+             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/sv.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <!-- <h6 class="title">Harikrishna Engineering Pvt Ltd</h6>
+                              <span>Visakhapatanam, AP</span>   -->
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/nevry.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                           <!--  <h6 class="title">Harikrishna Engineering Pvt Ltd</h6>
+                              <span>Visakhapatanam, AP</span>   -->
+                        </div>
+                    </div>
+                 </div>
+            </div> 
   
         </div>
     </div>
@@ -421,5 +448,11 @@
 <script src="assets/js/slick.min.js"></script>
 <script src="assets/js/easing.min.js"></script>
 <script src="assets/js/main.js"></script>
+ <script type="text/javascript">
+        setInterval(function () {
+           $("#flashtext").fadeOut(1200);
+        $("#flashtext").fadeIn(1200)
+        },100)
+    </script>
 </body>
 </html>

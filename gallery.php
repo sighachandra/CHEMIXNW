@@ -384,6 +384,12 @@
     <script src="assets/js/easing.min.js"></script>
     <script src="fancybox/jquery.fancybox.min.js"></script>
     <script src="assets/js/main.js"></script>
+     <script type="text/javascript">
+        setInterval(function () {
+           $("#flashtext").fadeOut(1200);
+        $("#flashtext").fadeIn(1200)
+        },100)
+    </script>
    
   </body>
 </html>
