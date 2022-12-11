@@ -64,7 +64,7 @@
 				<ul class="navbar-nav">
 					<li class="<?= ($page=='home')? 'activemenu':'' ?>"> <a href="index.php">home</a> </li>
 					<li class="<?= ($page=='about')? 'activemenu':'' ?>"> <a href="about.php">about us</a> </li>
-					<li class="<?= ($page=='area-of-operations')? 'activemenu':'' ?>"> <a href="area-of-operations.php">Operations</a> </li>
+					<li class="<?= ($page=='associates')? 'activemenu':'' ?>"> <a href="associates.php">Associates</a> </li>
 					<li class="<?= ($page=='trusted-partners')? 'activemenu':'' ?>"> <a href="our-trusted-partners.php">Our Trusted Partners</a> </li>
 					<li class="<?= ($page=='projects')? 'activemenu':'' ?>"> <a href="projects.php">Projects</a> </li>
 					<li class="<?= ($page=='gallery')? 'activemenu':'' ?>"> <a href="gallery.php">Gallery</a> </li>

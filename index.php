@@ -39,7 +39,7 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="home-01-banner-content">
-              <span class="subtitle">Building Concrete Relations</span>
+            <!--   <span class="subtitle">Building Concrete Relations</span> -->
               <h1 class="title">specialized in concrete <br>repair and structural <br>waterproofing solutions </h1>
              <!--  <p>Building Concrete Relations</p> -->
             <!--   <p>An ellipsis for CHEMIX Company, 'Chemical mixing is literally what it sounds - a chemical company whose business is into the mixing of it for the appropriate use'.</p> -->
@@ -166,14 +166,26 @@
         </div>
       </div>
     </section>
+    <section class="about-section">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            <div class="section-title">
+            <!--   <span class="subtitle">What We Do</span> -->
+              <h2 class="title margin-top-10 margin-bottom-10">About Us</h2>
+     <p class="title-paragraph">Chemix representing reputed internationally approved companies in India for their material supply and application with relevant guarantee by trained personnel equipped with modern technical infrastructure. We are a company specialized in application as per the system specification and distribution of construction chemicals of high quality relevant to the regional climatic situation and code of practices and in accordance with quality international standards. We have been working in this field for more than a decade and have ever since grown to become an essential component of construction industry specifically in the Middle East and internationally at large with our products being used in a vast network of geographical extent.</p>
+          </div>
+          </div>
+        </div>
+    </div></section>
 
 
-    <section class="about-section padding-top-100 padding-bottom-110">
+    <section class="about-section padding-bottom-50">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-10">
             <div class="section-title margin-bottom-55">
-              <span class="subtitle">What We Do</span>
+            <!--   <span class="subtitle">What We Do</span> -->
               <h2 class="title margin-top-10 margin-bottom-10">Operations</h2>
               <p class="title-paragraph">Chemix which was established in 1999 having its regional operations in Chennai and has a history of successful operations done into the entire south Indian states. We undertake the projects in supply and apply basis and material as well.  Chemix building system adopts a joint approach to working with its clients – from customer support, technical back-up, and selection of appropriate product for correct use. One of our key objectives is to provide quality products and service to the construction industry </p>
             </div>
@@ -184,8 +196,7 @@
           <!-- first section -->
           <div class="col-xl-3 col-lg-4 col-md-5">
             <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-              <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
-               
+              <a class="nav-link active" id="substrcture" data-toggle="pill" href="#v-substrcture" role="tab" aria-controls="v-pills-home" aria-selected="true">
                 <div class="tab-list-content">
                   <h6 class="title">Substructure / structural Water Proofing</h6>
                 </div>
@@ -204,12 +215,34 @@
                   <h6 class="title">Concrete Repair & Strengthening works</h6>
                 </div>
               </a>
+                <a class="nav-link" id="expansion" data-toggle="pill" href="#v-expansion" role="tab" aria-controls="v-pills-messages" aria-selected="false">
+               
+                <div class="tab-list-content">
+                  <h6 class="title">Expansion / construction joint treatment</h6>
+                </div>
+              </a>
+
+               <a class="nav-link" id="structural" data-toggle="pill" href="#v-structural" role="tab" aria-controls="v-pills-messages" aria-selected="false">
+               
+                <div class="tab-list-content">
+                  <h6 class="title">Structural protective coatings</h6>
+                </div>
+              </a>
+
+               <a class="nav-link" id="structural" data-toggle="pill" href="#v-flooring" role="tab" aria-controls="v-pills-messages" aria-selected="false">
+               
+                <div class="tab-list-content">
+                  <h6 class="title">Preformance flooring </h6>
+                </div>
+              </a>
+
+
             </div>
           </div>
           <!-- modern technology description -->
           <div class="col-xl-9 col-lg-8 col-md-7">
-            <div class="tab-content" id="v-pills-tabContent">
-              <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+            <div class="tab-content" id="substrcture">
+              <div class="tab-pane fade show active" id="v-substrcture" role="tabpanel" aria-labelledby="v-pills-home-tab">
                 <div class="row">
                   <div class="col-lg-7">
                     <h4 class="title">Substructure / structural Water Proofing</h4>
@@ -226,13 +259,15 @@
                         <i class="fa fa-check-circle-o"></i>PolyUrethane coatings Exposed & Un exposed areas
                       </li>
                       <li>
-                        <i class="fa fa-check-circle-o"></i>Acrylic Polymer multi layer HD systems
+                        <i class="fa fa-check-circle-o"></i>Acrylic Polymer multi layer HD systems<br>
+                                &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;• Polyester fleece reinforced multi-layer systems<br>
+                                &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;• Fiber mesh reinforced systems
                       </li>
                       <li>
                         <i class="fa fa-check-circle-o"></i>Polymer modified cementitious systems
                       </li>
                       <li>
-                        <i class="fa fa-check-circle-o"></i>Crystalline coatings
+                        <i class="fa fa-check-circle-o"></i>Crystalline capillary systems
                       </li>
                     </ul>
                   </div>
@@ -258,6 +293,10 @@
                       <li>
                         <i class="fa fa-check-circle-o"></i>Carbon Fiber wrapping
                       </li>
+                       <li>
+                        <i class="fa fa-check-circle-o"></i> Non shrink grout applications
+                      </li>
+                     
                      <!--  <li>
                         <i class="fa fa-check-circle-o"></i>Mike suspectas habere possunt, sed quod.
                       </li> -->
@@ -268,11 +307,141 @@
                   </div>
                 </div>
               </div>
+
+
+
+              <div class="tab-pane fade" id="v-expansion" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                <div class="row">
+                  <div class="col-lg-7">
+                    <h4 class="title">Expansion / construction joint treatment</h4>
+                   <!--  <p>We are able to guarantee a very high level of satisfaction for our clients. Pharetra libero non facilisis imperdiet, mi augue feugiat nisl sit amet mollis enim velit Vestibulum fringilla nulla ultricies.</p>
+                    <p>We are able to guarantee a very high level of satisfaction for our clients. Pharetra libero non facilisis imperdiet, mi augue feugiat nisl sit amet mollis enim velit Vestibulum fringilla nulla ultricies.</p> -->
+                    <ul> 
+ 
+                      <li>
+                        <i class="fa fa-check-circle-o"></i>PolyUrethane
+                      </li>
+                      <li>
+                        <i class="fa fa-check-circle-o"></i>Polysulphide
+                      </li>
+                      <li>
+                        <i class="fa fa-check-circle-o"></i>Butyl
+                      </li>
+                       <li>
+                        <i class="fa fa-check-circle-o"></i> Acrylic
+                      </li>
+                        <li>
+                        <i class="fa fa-check-circle-o"></i> Epoxy
+                      </li>
+                      <li>
+                        <i class="fa fa-check-circle-o"></i> Bitumen
+                      </li>
+                     
+                     <!--  <li>
+                        <i class="fa fa-check-circle-o"></i>Mike suspectas habere possunt, sed quod.
+                      </li> -->
+                    </ul>
+                  </div>
+                  <div class="col-lg-5">
+                    <img src="assets/images/home-01/tab-content-01.jpg" alt="">
+                  </div>
+                </div>
+              </div>
+
+              <div class="tab-pane fade" id="v-structural" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                <div class="row">
+                  <div class="col-lg-7">
+                    <h4 class="title">Structural protective coatings</h4>
+                   <!--  <p>We are able to guarantee a very high level of satisfaction for our clients. Pharetra libero non facilisis imperdiet, mi augue feugiat nisl sit amet mollis enim velit Vestibulum fringilla nulla ultricies.</p>
+                    <p>We are able to guarantee a very high level of satisfaction for our clients. Pharetra libero non facilisis imperdiet, mi augue feugiat nisl sit amet mollis enim velit Vestibulum fringilla nulla ultricies.</p> -->
+                    <ul> 
+                      <li>
+                        <i class="fa fa-check-circle-o"></i>Anti-carbonation
+                      </li>
+                      <li>
+                        <i class="fa fa-check-circle-o"></i>External wall dampness 
+                      </li>
+                      <li>
+                        <i class="fa fa-check-circle-o"></i>Raising dampness
+                      </li>
+                       <li>
+                        <i class="fa fa-check-circle-o"></i> Polyurethane protective systems
+                      </li>
+                     
+                     <!--  <li>
+                        <i class="fa fa-check-circle-o"></i>Mike suspectas habere possunt, sed quod.
+                      </li> -->
+                    </ul>
+                  </div>
+                  <div class="col-lg-5">
+                    <img src="assets/images/home-01/tab-content-01.jpg" alt="">
+                  </div>
+                </div>
+              </div>
+
+              <div class="tab-pane fade" id="v-flooring" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                <div class="row">
+                  <div class="col-lg-7">
+                    <h4 class="title"> Preformance flooring </h4>
+                   <!--  <p>We are able to guarantee a very high level of satisfaction for our clients. Pharetra libero non facilisis imperdiet, mi augue feugiat nisl sit amet mollis enim velit Vestibulum fringilla nulla ultricies.</p>
+                    <p>We are able to guarantee a very high level of satisfaction for our clients. Pharetra libero non facilisis imperdiet, mi augue feugiat nisl sit amet mollis enim velit Vestibulum fringilla nulla ultricies.</p> -->
+                    <ul> 
+                      <li>
+                        <i class="fa fa-check-circle-o"></i>Epoxy
+                      </li>
+                      <li>
+                        <i class="fa fa-check-circle-o"></i>Polyurthane
+                      </li>
+                      <li>
+                        <i class="fa fa-check-circle-o"></i>HD vehicular movement
+                      </li>
+                       <li>
+                        <i class="fa fa-check-circle-o"></i> Epoxy screeds
+
+                      </li>
+                        <li>
+                        <i class="fa fa-check-circle-o"></i> Floor hardners
+
+                      </li>
+                     
+                       <li>
+                        <i class="fa fa-check-circle-o"></i> Floor joints
+
+                      </li>
+                     
+                     
+                     <!--  <li>
+                        <i class="fa fa-check-circle-o"></i>Mike suspectas habere possunt, sed quod.
+                      </li> -->
+                    </ul>
+                  </div>
+                  <div class="col-lg-5">
+                    <img src="assets/images/home-01/tab-content-01.jpg" alt="">
+                  </div>
+                </div>
+              </div>
+
+             
+
             </div>
+
+            
+
           </div>
+
+          
         </div>
       </div>
+
     </section>
+    <section class="about-section">
+          <div class="container">
+  <div class="row justify-content-center">
+     <div class="col-lg-10">
+            <div class="section-title margin-bottom-55">
+              <p class="title-paragraph">The experienced Team of management, engineering, supervision and skilled workforce is well trained and exposed in all kinds of work related to chemicals and membrane applications in construction industry who ensure that each work executed by Chemix is a signature to our clients for total satisfaction in comply with the project  specification and custom design as per site requirement </p>
+            </div></div>
+          </div></div></section>
    <!--  <section class="about-section padding-top-100 padding-bottom-110">
       <div class="container">
         <div class="row justify-content-center">
