@@ -250,6 +250,11 @@
                     <p>We are able to guarantee a very high level of satisfaction for our clients. Pharetra libero non facilisis imperdiet, mi augue feugiat nisl sit amet mollis enim velit Vestibulum fringilla nulla ultricies.</p> -->
                     <ul>
                       <li>
+                        <i class="fa fa-check-circle-o"></i>Acrylic Polymer multi-layer HD systems for roof / terrace<br>
+                                &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;• Polyester fleece reinforced multi-layer systems<br>
+                                &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;• Fiber mesh reinforced systems
+                      </li>
+                      <li>
                         <i class="fa fa-check-circle-o"></i>PVC Water proofing Membranes – Basements & Roof / Terrace Exposed areas
                       </li>
                       <li>
@@ -258,11 +263,7 @@
                       <li>
                         <i class="fa fa-check-circle-o"></i>PolyUrethane coatings Exposed & Un exposed areas
                       </li>
-                      <li>
-                        <i class="fa fa-check-circle-o"></i>Acrylic Polymer multi layer HD systems<br>
-                                &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;• Polyester fleece reinforced multi-layer systems<br>
-                                &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;• Fiber mesh reinforced systems
-                      </li>
+                     
                       <li>
                         <i class="fa fa-check-circle-o"></i>Polymer modified cementitious systems
                       </li>

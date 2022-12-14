@@ -104,7 +104,7 @@
                         <i class="la la-map-marker"></i>
                       </div>
                       <div class="address-text">
-                        <span>address (HO)</span> CHEMIX ConCare Systems No. 5, West Periyar Pathai Arumbakkam, Chennai 600 106
+                        <span>address (HO)</span> CHEMIX ConCare Systems No.<br> 5, West Periyar Pathai Arumbakkam, Chennai 600 106<br>GST: 33AFVPV0648H1ZY
                       </div>
                     </div>
                   </li>
@@ -142,7 +142,8 @@
                         <i class="la la-map-marker"></i>
                       </div>
                       <div class="address-text">
-                        <span>Branch for AP</span>Chemix Structural Services, D.No.3-6-58, Nethaji Street, Raghavaiahpeta, Sullurpeta, Tirupati district, AP-524 121
+                        <span>Branch for AP</span>Chemix Structural Services, D.No.3-6-58, Nethaji Street, Raghavaiahpeta, Sullurpeta, Tirupati district, AP-524 121<br>
+                        GST:37AFVPV0648H1ZQ
                         
 
                       </div>
@@ -165,7 +166,8 @@
                       </div>
                       <div class="mail-us-text">
                         <span>send us mail</span>
-                            <a href="mailto:">contact@chemix-cc.com</a>
+                            <a href="mailto:">contact@chemix-cc.com</a><br>
+                            chemixstructcare@gmail.com
                       </div>
                     </div>
                   </li>
