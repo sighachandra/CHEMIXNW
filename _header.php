@@ -23,7 +23,7 @@
 						<div class="info-bar-inner">
 							<div class="left-content-area">
 								<div class="logo-area">
-									<a href="index.php"> <img src="assets/images/logo/logo.png" alt="logo"> </a>
+									<a href="index.php"> <img src="assets/images/logo/logo2.png" alt="logo"> </a>
 								</div>
 							</div>
 							<div class="right-content-area">

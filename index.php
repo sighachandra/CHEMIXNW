@@ -31,7 +31,8 @@
 
     <section class="home-01-banner" style="background-image: url('assets/images/home-01/home-01-banner-bg.jpg')">
       <div class="whats-icon-float">
-        <a href="#">
+        <a href="whatsapp:contact=9445700927@s.whatsapp.com&message="I would like to chat with you"
+>
           <img src="assets/images/home-01/logo 2.png" />
         </a>
       </div>
