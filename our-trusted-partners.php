@@ -71,25 +71,40 @@
             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
                     <div class="project-image">
-                        <img src="assets/images/our-trusted-partners/mes.png" alt="">
-                    </div>
-                    <div class="hover-state">
-                        <div class="hover-state-content">
-                            <h6 class="title">Military Engineering Service</h6>
-                          <!--   <span>company title</span> -->
-                        </div>
-                    </div>
-                 </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
-                <div class="indurance-project-item">
-                    <div class="project-image">
                         <img src="assets/images/our-trusted-partners/iit.png" alt="">
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
                             <h6 class="title">Indian Institute of Technology</h6>
                             <span>Madras</span>
+                        </div>
+                    </div>
+                 </div>
+            </div>
+
+             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/vssc.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">Vikram Sarabhai Space Centre</h6>
+                            <span>Trivandrum,Kerala</span>
+                        </div>
+                    </div>
+                 </div>
+            </div>
+
+             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/iprc.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">ISRO Propulsion Complex (IPRC)</h6>
+                            <span>Mahendragiri-,Tamilnadu</span>
                         </div>
                     </div>
                  </div>
@@ -106,17 +121,32 @@
                         </div>
                     </div>
                  </div>
-            </div> 
+            </div>  
+
+
+            <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/ttd.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">Tirumala Tirupati Devasthanams</h6>
+                            <span>Tirupati,Andhra Pradesh</span> 
+                        </div>
+                    </div>
+                 </div>
+            </div>  
 
              <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
                     <div class="project-image">
-                        <img src="assets/images/our-trusted-partners/shriram-ep.png" alt="">
+                        <img src="assets/images/our-trusted-partners/dae.png" alt="">
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
-                            <h6 class="title">Sri Ram EPC</h6>
-                         <span> Factory at Vanagaram</span> 
+                            <h6 class="title">Department of Atomics Energy</h6>
+                          <span>Kalpakkam</span>
                         </div>
                     </div>
                  </div>
@@ -125,12 +155,12 @@
             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
                     <div class="project-image">
-                        <img src="assets/images/our-trusted-partners/india-land.png" alt="">
+                        <img src="assets/images/our-trusted-partners/istrac.png" alt="">
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
-                            <h6 class="title">India Land</h6>
-                            <span>I T park @ Ambattur</span> 
+                            <h6 class="title">ISRO Telemetry, Tracking and Command Network</h6>
+                             <span>istrac</span> 
                         </div>
                     </div>
                  </div>
@@ -139,16 +169,35 @@
             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
                     <div class="project-image">
-                        <img src="assets/images/our-trusted-partners/ecci.png" alt="">
+                        <img src="assets/images/our-trusted-partners/mes.png" alt="">
                     </div>
                     <div class="hover-state">
                         <div class="hover-state-content">
-                            <h6 class="title">ECCI</h6>
-                            <span>Chennai</span> 
+                            <h6 class="title">Military Engineering Service</h6>
+                          <!--   <span>company title</span> -->
+                        </div>
+                    </div>
+                 </div>
+            </div>
+            
+             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/mcf.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">Master Control Facility, ISRO</h6>
+                                <span>Hassan</span>
                         </div>
                     </div>
                  </div>
             </div> 
+
+            
+
+           
+
              <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
                     <div class="project-image">
@@ -177,7 +226,7 @@
                  </div>
             </div> 
 
-            <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+           <!--  <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
                     <div class="project-image">
                         <img src="assets/images/our-trusted-partners/lpsc.png" alt="">
@@ -190,20 +239,7 @@
                     </div>
                  </div>
             </div> 
-
-            <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
-                <div class="indurance-project-item">
-                    <div class="project-image">
-                        <img src="assets/images/our-trusted-partners/ttd.png" alt="">
-                    </div>
-                    <div class="hover-state">
-                        <div class="hover-state-content">
-                            <h6 class="title">TTD</h6>
-                           <!--  <span>company title</span> -->
-                        </div>
-                    </div>
-                 </div>
-            </div> 
+ -->
 
              <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
@@ -219,33 +255,9 @@
                  </div>
             </div> 
 
-             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
-                <div class="indurance-project-item">
-                    <div class="project-image">
-                        <img src="assets/images/our-trusted-partners/mcf.png" alt="">
-                    </div>
-                    <div class="hover-state">
-                        <div class="hover-state-content">
-                            <h6 class="title">MCF</h6>
-                           <!--  <span>company title</span> -->
-                        </div>
-                    </div>
-                 </div>
-            </div> 
+            
 
-             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
-                <div class="indurance-project-item">
-                    <div class="project-image">
-                        <img src="assets/images/our-trusted-partners/vssc.png" alt="">
-                    </div>
-                    <div class="hover-state">
-                        <div class="hover-state-content">
-                            <h6 class="title">VSSC</h6>
-                            <span>Trivandrum,Kerala</span>
-                        </div>
-                    </div>
-                 </div>
-            </div> 
+            
 
             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
@@ -261,19 +273,7 @@
                  </div>
             </div> 
 
-             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
-                <div class="indurance-project-item">
-                    <div class="project-image">
-                        <img src="assets/images/our-trusted-partners/dae.png" alt="">
-                    </div>
-                    <div class="hover-state">
-                        <div class="hover-state-content">
-                            <h6 class="title">Department of Atomics Energy</h6>
-                          <span>Kalpakkam</span>
-                        </div>
-                    </div>
-                 </div>
-            </div> 
+            
 
             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
@@ -318,19 +318,7 @@
             </div> 
 
 
-             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
-                <div class="indurance-project-item">
-                    <div class="project-image">
-                        <img src="assets/images/our-trusted-partners/istrac.png" alt="">
-                    </div>
-                    <div class="hover-state">
-                        <div class="hover-state-content">
-                            <h6 class="title">ISRO</h6>
-                             <span>istrac</span> 
-                        </div>
-                    </div>
-                 </div>
-            </div> 
+             
 
             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
                 <div class="indurance-project-item">
@@ -424,6 +412,48 @@
                         <div class="hover-state-content">
                            <!--  <h6 class="title">Harikrishna Engineering Pvt Ltd</h6>
                               <span>Visakhapatanam, AP</span>   -->
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
+             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/india-land.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">India Land</h6>
+                            <span>I T park @ Ambattur</span> 
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+            
+             <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/shriram-ep.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">Sri Ram EPC</h6>
+                         <span> Factory at Vanagaram</span> 
+                        </div>
+                    </div>
+                 </div>
+            </div> 
+
+            <div class="col-xl-3 col-lg-4 col-sm-6 grid-item">
+                <div class="indurance-project-item">
+                    <div class="project-image">
+                        <img src="assets/images/our-trusted-partners/ecci.png" alt="">
+                    </div>
+                    <div class="hover-state">
+                        <div class="hover-state-content">
+                            <h6 class="title">ECCI</h6>
+                            <span>Chennai</span> 
                         </div>
                     </div>
                  </div>
